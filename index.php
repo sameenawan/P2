@@ -12,6 +12,10 @@
 <body>
 
 
+<h2>Sameen's XKCD Password Generator</h2>
+<p>Please use the below criteria to create a random secure password. It is found that XKCD passowrds are very secure and easy to remember. This app will generate a random password based on the following criteria you select.</p>
+
+
 <?php
 
 
@@ -39,6 +43,12 @@
 	echo "</form>";
 
 ?>
+
+<p>The logic of an XKCD Password</p>
+<img src="password_strength.png" alt = 'XKCD password generator comic'>
+
+
+
 		
 	</body>
 </html>
