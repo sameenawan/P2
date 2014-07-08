@@ -5,14 +5,9 @@
 GITHUB URL
 <https://github.com/sameenawan/P2/>
 
-## Live URL
-
-##Pagoda
-<http://helloworldsameen.gopagoda.com/index.php>
-
-##Jumpstarter
-<http://hellow28.onjumpstarter.io/>
-
+## Live URL IS NOT WORKING
+not working:
+<http://xkcdpassword.gopagoda.com/>
 
 
 ## Description
