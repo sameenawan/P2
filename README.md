@@ -16,5 +16,5 @@ A simple webpage loaded on to pagoda. This project displays that I understand PH
 ## Details for teaching team
 Public site, no login required.
 Please note you may not find many commits and changes to this folder because I had to redo the whole project and recreate a new repo/folder in both github and pagoda
-
+The previous test trials can be found here <https://github.com/sameenawan/xkcdpassword>
 
